@@ -1,0 +1,36 @@
+{
+  "loaded_in_vivado_2018_3": true,
+  "screenshot_capture_still_failing": true,
+  "views": {
+    "debounce_verified": {
+      "signals": [
+        "/tb_button_conditioner/clk",
+        "/tb_button_conditioner/resetn",
+        "/tb_button_conditioner/raw",
+        "/tb_button_conditioner/dut/sync1",
+        "/tb_button_conditioner/dut/sync2",
+        "/tb_button_conditioner/dut/count",
+        "/tb_button_conditioner/pressed",
+        "/tb_button_conditioner/pressed_low"
+      ],
+      "start": "0fs",
+      "end": "1401356674fs"
+    },
+    "axi_gpio_irq_verified": {
+      "signals": [
+        "/tb_axi_gpio_irq/raw",
+        "/tb_axi_gpio_irq/pressed",
+        "/tb_axi_gpio_irq/irq",
+        "/tb_axi_gpio_irq/awvalid",
+        "/tb_axi_gpio_irq/awaddr",
+        "/tb_axi_gpio_irq/wdata",
+        "/tb_axi_gpio_irq/araddr",
+        "/tb_axi_gpio_irq/rdata"
+      ],
+      "start": "0fs",
+      "end": "6019912473fs"
+    }
+  },
+  "screenshots_received_from_user": true,
+  "screenshots_in_part3_report": true
+}

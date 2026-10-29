@@ -1,0 +1,22 @@
+{
+  "checks": {
+    "original_source_matches_main.c": true,
+    "original_source_matches_button_conditioner.v": true,
+    "original_source_matches_tb_button_conditioner.v": true,
+    "original_source_matches_tb_axi_gpio_irq.v": true,
+    "original_source_matches_ego_xz7_v12.xdc": true,
+    "debounce_pass": true,
+    "axi_gpio_pass": true,
+    "hardware_build_pass": true,
+    "sdk_build_pass": true,
+    "elf_exists": true,
+    "hdf_embedded_bit_matches": true,
+    "irq_61": true,
+    "led_base": true,
+    "button_base": true,
+    "no_original_project_absolute_path_in_scripts": true
+  },
+  "all_passed": true,
+  "build_dir": "D:\\hw2_rebuild_check",
+  "rebuild_only_no_new_board_test": true
+}

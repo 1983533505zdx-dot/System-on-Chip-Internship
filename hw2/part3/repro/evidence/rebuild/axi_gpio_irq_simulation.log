@@ -1,0 +1,21 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+AXI READ 120 = 00000000, IRQ=0
+AXI WRITE 120 = 00000000, IRQ=0
+AXI WRITE 128 = 00000001, IRQ=0
+AXI WRITE 11c = 80000000, IRQ=0
+AXI READ 128 = 00000001, IRQ=0
+AXI READ 11c = 80000000, IRQ=0
+pressed=1 raw=1 irq=1
+AXI READ 000 = 00000001, IRQ=1
+AXI READ 120 = 00000001, IRQ=1
+AXI READ 000 = 00000001, IRQ=1
+AXI READ 120 = 00000001, IRQ=1
+AXI WRITE 120 = 00000001, IRQ=0
+AXI READ 000 = 00000000, IRQ=1
+AXI WRITE 120 = 00000001, IRQ=0
+AXI WRITE 128 = 00000000, IRQ=0
+AXI WRITE 128 = 00000001, IRQ=1
+AXI WRITE 120 = 00000001, IRQ=0
+PASS: actual AXI GPIO press/release IRQ, level held, clear, hold, mask/pending, bounce
+$finish called at time : 6100 ns : File "C:/Users/user/Desktop/hw2/part3/repro/src/tb_axi_gpio_irq.v" Line 80

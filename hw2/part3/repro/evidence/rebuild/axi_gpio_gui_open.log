@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Oct 29 00:24:13 2026
+# Process ID: 27276
+# Current directory: D:/HW2_submission_work
+# Command line: vivado.exe -mode gui -source D:/HW2_submission_work/show_irq_gui.tcl -log D:/HW2_submission_work/show_irq_gui.log -journal D:/HW2_submission_work/show_irq_gui.jou
+# Log file: D:/HW2_submission_work/show_irq_gui.log
+# Journal file: D:/HW2_submission_work/show_irq_gui.jou
+#-----------------------------------------------------------
+start_gui
+source D:/HW2_submission_work/show_irq_gui.tcl
+# open_wave_database -noautoloadwcfg C:/Users/user/Desktop/hw2/part3/repro/waveforms/tb_axi_gpio_irq_behav.wdb
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx_Vivado_SDK_2018.3_1207_2324.tar/Vivado/2018.3/data/ip'.
+# create_wave_config axi_gpio_irq_verified
+# add_wave /tb_axi_gpio_irq/raw /tb_axi_gpio_irq/pressed /tb_axi_gpio_irq/irq /tb_axi_gpio_irq/awvalid /tb_axi_gpio_irq/awaddr /tb_axi_gpio_irq/wdata /tb_axi_gpio_irq/araddr /tb_axi_gpio_irq/rdata
+# save_wave_config D:/HW2_submission_work/assets/axi_gpio_irq_verified.wcfg
+# puts "AXI_IRQ_WAVE_GUI_READY"
+AXI_IRQ_WAVE_GUI_READY

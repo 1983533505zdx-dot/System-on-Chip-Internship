@@ -1,0 +1,13 @@
+{
+  "docx_pages": {
+    "part1": 2,
+    "part2": 9,
+    "part3": 18
+  },
+  "all_pages_visually_reviewed": true,
+  "rebuild_checks_passed": 15,
+  "gui_wave_screenshot_pending": false,
+  "word_native_pdf_and_png_review": true,
+  "actual_gui_screenshots_in_report": 2,
+  "completion_date": "2026-10-29"
+}

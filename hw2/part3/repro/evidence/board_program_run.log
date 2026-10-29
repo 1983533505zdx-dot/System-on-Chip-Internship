@@ -1,0 +1,40 @@
+TARGETS_BEFORE=  1  APU
+     2  ARM Cortex-A9 MPCore #0 (Running)
+     3  ARM Cortex-A9 MPCore #1 (Running)
+  4  xc7z020
+
+initializing
+  0%    0MB   0.0MB/s  ??:?? ETA
+ 28%    1MB   2.2MB/s  ??:?? ETA
+ 50%    1MB   1.9MB/s  ??:?? ETA
+ 72%    2MB   1.8MB/s  ??:?? ETA
+ 93%    3MB   1.8MB/s  ??:?? ETA
+100%    3MB   1.8MB/s  00:02    
+INFO: [Hsi 55-1698] elapsed time for repository loading 0 seconds
+
+Downloading Program -- D:/Zynq_HW2/SDK/hw2_interrupt/Debug/hw2_interrupt.elf
+	section, .text: 0x00000000 - 0x0000302f
+	section, .init: 0x00003030 - 0x00003047
+	section, .fini: 0x00003048 - 0x0000305f
+	section, .rodata: 0x00003060 - 0x000030ab
+	section, .data: 0x000030b0 - 0x00003847
+	section, .eh_frame: 0x00003848 - 0x0000384b
+	section, .mmu_tbl: 0x00004000 - 0x00007fff
+	section, .init_array: 0x00008000 - 0x00008003
+	section, .fini_array: 0x00008004 - 0x00008007
+	section, .bss: 0x00008008 - 0x00008077
+	section, .heap: 0x00008078 - 0x0000a07f
+	section, .stack: 0x0000a080 - 0x0000d87f
+
+  0%    0MB   0.0MB/s  ??:?? ETA
+100%    0MB   0.5MB/s  00:00    
+
+Setting PC to Program Start Address 0x00000000
+Successfully downloaded D:/Zynq_HW2/SDK/hw2_interrupt/Debug/hw2_interrupt.elf
+INITIAL app_status ADDRESS=0x0000805c VALUE=1
+INITIAL led_state ADDRESS=0x000030b4 VALUE=1
+INITIAL irq_count ADDRESS=0x00008050 VALUE=0
+INITIAL press_count ADDRESS=0x00008054 VALUE=0
+INITIAL last_button ADDRESS=0x00008058 VALUE=0
+LED_DATA=1 BUTTON_DATA=0
+BOARD_PROGRAM_RUN_COMPLETE

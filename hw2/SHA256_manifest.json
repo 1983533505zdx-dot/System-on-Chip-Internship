@@ -1,0 +1,482 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 61,
+    "sha256": "1ac532859b2a5628957a8ae65d2258709dd71149a2987f662057a74c5af88f50"
+  },
+  {
+    "path": "part1/HW2_Part1_文件樹狀圖.docx",
+    "bytes": 179090,
+    "sha256": "25b81a64b029bd897efb73f87762f978cedb344a480739bc5c6e906c029e56df"
+  },
+  {
+    "path": "part1/老師作業要求.jpg",
+    "bytes": 366825,
+    "sha256": "a520b1c15b8af1bd881e3a2faa05f68119236fd9ee79252fdc07f3efe8a279c3"
+  },
+  {
+    "path": "part2/HW2_Part2_中斷控制器重點.docx",
+    "bytes": 484538,
+    "sha256": "1791647f0e55da2c76690d83366a602531f0c5c61d7efc583430e97e5629c73e"
+  },
+  {
+    "path": "part2/標記截圖/axi_gier_bit31.png",
+    "bytes": 16419,
+    "sha256": "b763391bd9129199f01e872f05dff6b51d1b93cbdadc976f5213a49130685c6a"
+  },
+  {
+    "path": "part2/標記截圖/axi_interrupt_description.png",
+    "bytes": 120036,
+    "sha256": "e3a3dcdf4f73b6055bfce194057190c6bc1783afcb5bf90017b0d959c33aaf6a"
+  },
+  {
+    "path": "part2/標記截圖/axi_mask_bit0.png",
+    "bytes": 19239,
+    "sha256": "fbd463e47e78e57e498da3d04bbbcefe225b5c7d4b52bc762238575647828398"
+  },
+  {
+    "path": "part2/標記截圖/axi_mask_marked.png",
+    "bytes": 78398,
+    "sha256": "6ac48903754fef5a260129c0e3b83da290fd8e3eba322f31a331655f2402315b"
+  },
+  {
+    "path": "part2/標記截圖/axi_pending_marked.png",
+    "bytes": 40649,
+    "sha256": "9bc427d0bb5a0bd19c7f77b18ecd6b6ceab5ccee7f48ea1eaf29b1fda25e7196"
+  },
+  {
+    "path": "part2/標記截圖/axi_regs_marked.png",
+    "bytes": 32420,
+    "sha256": "79f618b224af6c6d74c31a042d9532b2d8f5132dfd62e56cb5aaa25ac1004ea1"
+  },
+  {
+    "path": "part2/標記截圖/driver_arch_marked.png",
+    "bytes": 106484,
+    "sha256": "a58142918d12a280cc240fa5568fa656c69604a320a7038f5eca141772f7bef3"
+  },
+  {
+    "path": "part2/標記截圖/gic_regs_marked.png",
+    "bytes": 57767,
+    "sha256": "0db14381a160f8a4ec32789698b3dc710e929282c839d109bcb2d5bbd0bff069"
+  },
+  {
+    "path": "part2/標記截圖/irq_route_marked.png",
+    "bytes": 33292,
+    "sha256": "0107f9e011e18e6349bee02eae1bd4ba6c16a99f4051f90b277642e41690d97a"
+  },
+  {
+    "path": "part2/標記截圖/sdk_bsp_marked.png",
+    "bytes": 159798,
+    "sha256": "0b0f2610eaa29742ccf4d7403d0d666b086bade0c39961e6b555af42ea07cdbd"
+  },
+  {
+    "path": "part2/老師中斷重點要求.jpg",
+    "bytes": 164258,
+    "sha256": "8e88f461a343898c6394f96a5d827f58e839278a3387dacadbe03e681594d609"
+  },
+  {
+    "path": "part3/HW2_Part3_實作與重現.docx",
+    "bytes": 967368,
+    "sha256": "c01044bc1bf8d0a1709181ec52d8e687d034be4486d967d1a6443c10e3b29383"
+  },
+  {
+    "path": "part3/local_archive/原始成功實作完整備份.zip",
+    "bytes": 48488933,
+    "sha256": "756b178cd4004f583e5a9ea27cd003bc612567a3e5742c1874dbb7a2ca219529"
+  },
+  {
+    "path": "part3/repro/.gitignore",
+    "bytes": 139,
+    "sha256": "d53b5d6bdf798bd168198b3fbd8f15b6d025ae9774bba3b60485fd4d4de0d905"
+  },
+  {
+    "path": "part3/repro/evidence/application_board_disassembly.txt",
+    "bytes": 128891,
+    "sha256": "f81a0c87acc3c80ae5dce8b11d6d67ce111e7e8e311a949d77af516c750b7f05"
+  },
+  {
+    "path": "part3/repro/evidence/axi_gpio_irq_simulation.log",
+    "bytes": 769,
+    "sha256": "1223c2610ba30f5df2bb0fdb2e5ff4a91e8f2fbe0fdb208d332c3f638199a9e8"
+  },
+  {
+    "path": "part3/repro/evidence/board_after_button.log",
+    "bytes": 318,
+    "sha256": "6f413d3353be68a2d648864103177e49569a5d9e58d326969896b9ad79335022"
+  },
+  {
+    "path": "part3/repro/evidence/board_before_button.log",
+    "bytes": 318,
+    "sha256": "43baa1e037e7e2818ca0fce0c9d62fbf4c0f0047d223996cc44354cae44432c6"
+  },
+  {
+    "path": "part3/repro/evidence/board_build.log",
+    "bytes": 121139,
+    "sha256": "d2926f3df19001efd9f69f2a9db9aa05f9f32ae524004f35820e0215bcc23151"
+  },
+  {
+    "path": "part3/repro/evidence/board_build_23572.backup.log",
+    "bytes": 3561,
+    "sha256": "8cea0ea7b7d733746a31df25199cb57108c1e06649ff465c7643edc644efd403"
+  },
+  {
+    "path": "part3/repro/evidence/board_build_console.txt",
+    "bytes": 122190,
+    "sha256": "c4f503ec99f1c33bd1199ce5ec29c64a5dcfd9bae9589958b57478a2b91f5e36"
+  },
+  {
+    "path": "part3/repro/evidence/board_deliverable_manifest.json",
+    "bytes": 99424,
+    "sha256": "378547b9f8379f0486eb9167a4791654aa5fb12615ede432aef209cf071844f0"
+  },
+  {
+    "path": "part3/repro/evidence/board_detection.log",
+    "bytes": 15625,
+    "sha256": "af0bccccb230f88c33c361cbfa7a7a0caafb74dca139c649de4ce1a545ae4985"
+  },
+  {
+    "path": "part3/repro/evidence/board_detection_console.txt",
+    "bytes": 15390,
+    "sha256": "cd599f6511ab2e81d92374f56165b937bd8038f9e9c8b06aa1e90155c9a8d9f1"
+  },
+  {
+    "path": "part3/repro/evidence/board_drc.rpt",
+    "bytes": 1166,
+    "sha256": "85778a0a84104d3a70ae3020cb1eb39a024ac1a780cdf200291ffa8a10885316"
+  },
+  {
+    "path": "part3/repro/evidence/board_export.log",
+    "bytes": 11965,
+    "sha256": "cc269eb238082ba0258829473c53ff9a2b9175d7034735064100d329dff2f77f"
+  },
+  {
+    "path": "part3/repro/evidence/board_export_console.txt",
+    "bytes": 11699,
+    "sha256": "a1e52bab63d1a99943706017c463349fb21fa9f786a9c2090750a956ef05ec76"
+  },
+  {
+    "path": "part3/repro/evidence/board_final_checks.json",
+    "bytes": 581,
+    "sha256": "c8bafd0062c1789b889984685fa9abfa49f4c96752e4d20084853942d933963e"
+  },
+  {
+    "path": "part3/repro/evidence/board_initial_state.log",
+    "bytes": 318,
+    "sha256": "a6506d68506f56739cc5be7b6562260f57c42bf7b100c1f1aa4745de67b6f562"
+  },
+  {
+    "path": "part3/repro/evidence/board_io.rpt",
+    "bytes": 148136,
+    "sha256": "ee5f43cbb151e518216603ad27d1149e3a71043a710f1c852951ecc5d2b14397"
+  },
+  {
+    "path": "part3/repro/evidence/board_program_run.log",
+    "bytes": 1505,
+    "sha256": "76a7e51db35193580d0e25c2db507022b1d3a8e87bea0d4fe575241db73e3f08"
+  },
+  {
+    "path": "part3/repro/evidence/board_timing.rpt",
+    "bytes": 22019,
+    "sha256": "71e40a4bb7b61e6810f02112764b4c09a9358f65ed4debcbeb732d192abb8741"
+  },
+  {
+    "path": "part3/repro/evidence/board_utilization.rpt",
+    "bytes": 9733,
+    "sha256": "405b45e5ab5925819868ccbec00f82ba0a2b99200a14cd51d0cc3dc4bd1a5240"
+  },
+  {
+    "path": "part3/repro/evidence/debounce_simulation.log",
+    "bytes": 216,
+    "sha256": "50cd5115b096a0fc5c476630a60d93f7809e4b97c7f154d631338ff1555afb75"
+  },
+  {
+    "path": "part3/repro/evidence/physical_verification.json",
+    "bytes": 1127,
+    "sha256": "188266071cabf2a6c919ad2582da442979410e74dde54b4e8a6b2b9fc6c5fd03"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/axi_gpio_gui_open.log",
+    "bytes": 1415,
+    "sha256": "cd9e66fafbd246e53b6033e584c296ef8ca4f699d6709342515fda86ca02a4c9"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/axi_gpio_irq.vcd",
+    "bytes": 10655,
+    "sha256": "2097bb83f30ed882def958ca2cee9230910da697d16fd7ddc06ee4414af0df54"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/axi_gpio_irq_simulation.log",
+    "bytes": 792,
+    "sha256": "5a5fdff7edcdb1a41e5c9ad441a3db565dee675fe6ccfd643006a5dfef93e819"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/board_drc.rpt",
+    "bytes": 1175,
+    "sha256": "eb824d8e161ee1ecd9293be207dc2b1f32a01f3f9374613dae45f3ae14dde067"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/board_timing.rpt",
+    "bytes": 22044,
+    "sha256": "437bd92a633ce61f5f1d73662659f2c7d998b822c118b71b10f609e3ebb54002"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/board_utilization.rpt",
+    "bytes": 9760,
+    "sha256": "9c38d94507e6ec2857094ba3bbc6b8447e003b45a0fbb1e296e9fdd50bbcaf94"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/debounce.vcd",
+    "bytes": 2639,
+    "sha256": "85055de8ab69602ab07b5c4da52147f6963d7da26cddec29dddb40483e56fb5d"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/debounce_gui_open.log",
+    "bytes": 2216,
+    "sha256": "65b5ba0bf63c16ef8fff21bc542dcf2d26a4437519b4bd22e3b23fe378038c06"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/debounce_simulation.log",
+    "bytes": 239,
+    "sha256": "230dbf3ebcbffb672a64613f09c8b802267699d13b904fc7907bc49373e4fe93"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/gui_waveforms_loaded.json",
+    "bytes": 1051,
+    "sha256": "1d5a8e26a38b6b2b980b0d4bb4b3a47c7681a1380b49bb94249a98ee256884d6"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/hardware.log",
+    "bytes": 125201,
+    "sha256": "624df4f2b302e6aac1ca69cfb400440672a704c3329195717c5363e4babe74ee"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/sdk_build.log",
+    "bytes": 9490,
+    "sha256": "1af2a86ba147b462b6b9133b02e959449015cf5e72fbb3473bcc5c3e2aa24f1c"
+  },
+  {
+    "path": "part3/repro/evidence/rebuild/verification.json",
+    "bytes": 718,
+    "sha256": "1522dc63c2da0ace88a22392f1fa85cb2f672805a8cd89a531309a153dd63bdc"
+  },
+  {
+    "path": "part3/repro/evidence/sdk_board_build.log",
+    "bytes": 10262,
+    "sha256": "ee2e0cfeeee59c09f53919eb500f37ddbf1f7817a8c52e92f9d8194cf8d3f0ef"
+  },
+  {
+    "path": "part3/repro/prebuilt/hw2_board.hdf",
+    "bytes": 131419,
+    "sha256": "0606f0c8a73ca7546af783c5c93da5bac160fc2a703d1721280cfe0699abc0e9"
+  },
+  {
+    "path": "part3/repro/prebuilt/hw2_interrupt.elf",
+    "bytes": 277444,
+    "sha256": "974fa4ad0cf144ce714d226098ec4559cc5279ce7ecbd65504931a4a03ab7cc8"
+  },
+  {
+    "path": "part3/repro/prebuilt/system_wrapper.bit",
+    "bytes": 4045674,
+    "sha256": "d936dff4b90f755838af03a9001bbad5c1a43e6c7ae9fcf186f72e46014589a4"
+  },
+  {
+    "path": "part3/repro/README.md",
+    "bytes": 5779,
+    "sha256": "5282ae2d35fd34b1c4fe179af91cc915b826baa3366af1a56d11299d0ac8e9d4"
+  },
+  {
+    "path": "part3/repro/run.ps1",
+    "bytes": 2286,
+    "sha256": "efdeca850cd840cab570ce8af947930e3e8a47a570217b62214a2c7ff6495faa"
+  },
+  {
+    "path": "part3/repro/scripts/build_hardware.tcl",
+    "bytes": 1403,
+    "sha256": "ba10f7be1855f87ef4fbdc41b141bd7c3578b81e8213ef647f3b14cb8dc4ecee"
+  },
+  {
+    "path": "part3/repro/scripts/build_sdk.tcl",
+    "bytes": 829,
+    "sha256": "5961278e78c95f90536550889aa6c78d8ebfa439f6553865cb0c39be04a05035"
+  },
+  {
+    "path": "part3/repro/scripts/common.tcl",
+    "bytes": 278,
+    "sha256": "d9bb49de175bd9cfa761459965c030ce875a959b0214a63ed1584065a72088f2"
+  },
+  {
+    "path": "part3/repro/scripts/create_design.tcl",
+    "bytes": 2822,
+    "sha256": "92e1e4103fc42b1481e5c802a5416d59a363011372b540704bacfff2c37d71ee"
+  },
+  {
+    "path": "part3/repro/scripts/export_diagram.tcl",
+    "bytes": 333,
+    "sha256": "7d2fe1ee47ca526917a6737270874e8a8d392aa292af33369a119dfe34235fcb"
+  },
+  {
+    "path": "part3/repro/scripts/open_project.tcl",
+    "bytes": 138,
+    "sha256": "838c76f42abb1fe0a29193518cd79a88209d53ac8764d462539bc5b9a4f08cf9"
+  },
+  {
+    "path": "part3/repro/scripts/program_run_board.tcl",
+    "bytes": 1207,
+    "sha256": "39c359f8f100a869cc11dde40f98441b1581e81f593ca62b7666b8a925b9e5e0"
+  },
+  {
+    "path": "part3/repro/scripts/read_board_state.tcl",
+    "bytes": 882,
+    "sha256": "33eb661c461469acb95d6ce2b15fca0e4fd26e0aedb0b79291827cb340c4e4ed"
+  },
+  {
+    "path": "part3/repro/scripts/simulate.tcl",
+    "bytes": 2732,
+    "sha256": "8403cd6563026728e96eaa53050090aa2c8b88c69f86ff0260b3dfc4cff90ff5"
+  },
+  {
+    "path": "part3/repro/scripts/view_debounce.tcl",
+    "bytes": 432,
+    "sha256": "dfe9fdbda216a7058636197d9ff88538ae60955bf0c03434181a9179062bb4be"
+  },
+  {
+    "path": "part3/repro/scripts/view_debounce_saved.tcl",
+    "bytes": 438,
+    "sha256": "b177361f52441ffb41b1c7b9bfb7323a0106252cc6db26dc706225b6911cab09"
+  },
+  {
+    "path": "part3/repro/scripts/view_irq.tcl",
+    "bytes": 355,
+    "sha256": "b7fce431a630fb15e0497ea8e56a355427d18990bc7310a243630fe8f62d4682"
+  },
+  {
+    "path": "part3/repro/scripts/view_irq_saved.tcl",
+    "bytes": 373,
+    "sha256": "45926eca7ebad8ef7b36e21bcd1ccd4d463f3e995897dd59b24950dfc5bb9256"
+  },
+  {
+    "path": "part3/repro/src/button_conditioner.v",
+    "bytes": 1057,
+    "sha256": "02cbf4df567de5ce8f06d46d7628f4532190d7fd358e57fffc0f3a6fea4d8824"
+  },
+  {
+    "path": "part3/repro/src/ego_xz7_v12.xdc",
+    "bytes": 783,
+    "sha256": "13a2c3b9bdcc67598f7b81067dd48ae907c0662226e533d79e36b4636c8d3986"
+  },
+  {
+    "path": "part3/repro/src/lscript.ld",
+    "bytes": 6110,
+    "sha256": "7e710bb98a3e722720f30d95b50c99bc50e7aba24e46857e774c55a0d7c99136"
+  },
+  {
+    "path": "part3/repro/src/main.c",
+    "bytes": 3091,
+    "sha256": "a4a02699afaea16e79f7dba1847fa9f624286143d92dffa4471d856a0db230ac"
+  },
+  {
+    "path": "part3/repro/src/tb_axi_gpio_irq.v",
+    "bytes": 4121,
+    "sha256": "5d25cf7d0a460443bfd20a0240e5d3263e03a2651e66ec3349e500340315b0fa"
+  },
+  {
+    "path": "part3/repro/src/tb_button_conditioner.v",
+    "bytes": 1469,
+    "sha256": "1d8b967d16d4d003d7522d64b373641849c2844c26e9a7602a074157b858152d"
+  },
+  {
+    "path": "part3/repro/TESTBENCH_NOTES.md",
+    "bytes": 1477,
+    "sha256": "ee172095bc1ab0cfa7e12725692632d1834b713626d6da7e1acbf50043ffbdca"
+  },
+  {
+    "path": "part3/repro/THIRD_PARTY_NOTICES.md",
+    "bytes": 294,
+    "sha256": "aa79731f4bec4684ebd5f53f7d6dc3a5ed215e5a7805111b97942776d0f68973"
+  },
+  {
+    "path": "part3/repro/waveforms/tb_axi_gpio_irq_behav.wdb",
+    "bytes": 296264,
+    "sha256": "0b70368c1ba4a4fd8bd283f6716e8f683a02703c97d922c463f030939da7369f"
+  },
+  {
+    "path": "part3/repro/waveforms/tb_button_conditioner_behav.wdb",
+    "bytes": 19966,
+    "sha256": "6d7e24b62f94d91b0802d7bd028f0a17976cec7327e914dbc6924c7ba40f04ad"
+  },
+  {
+    "path": "part3/圖表與截圖/axi_gpio_irq_gui.png",
+    "bytes": 23783,
+    "sha256": "6dc15ff2125559c945ce0f0177637ae289c1c47925aa9820153be1923ab4130a"
+  },
+  {
+    "path": "part3/圖表與截圖/block_design.pdf",
+    "bytes": 69376,
+    "sha256": "95ca4b1868dd7a463c0eb4d789e1d2b8044134971cded674d214debffc46903c"
+  },
+  {
+    "path": "part3/圖表與截圖/block_design.svg",
+    "bytes": 15918,
+    "sha256": "c18b1da84ef161eb2803f6390f4198dc23ca8671c100e5e02841f57526adaaf9"
+  },
+  {
+    "path": "part3/圖表與截圖/block_design_readable.png",
+    "bytes": 97232,
+    "sha256": "2430d72fd03bd0a072131e71bbbbea897b9f461f125bbbc7613ed300fb2a3a32"
+  },
+  {
+    "path": "part3/圖表與截圖/board_circuit_marked.png",
+    "bytes": 169691,
+    "sha256": "0d6776a2838ef8c4960e88e4c756f6b8f6016ce6b294a204daf5ab82f146cc2d"
+  },
+  {
+    "path": "part3/圖表與截圖/board_pins_marked.png",
+    "bytes": 106244,
+    "sha256": "760588deffb1661148c22ab3aa816506def6a3a61b622cd8507004c2f718f211"
+  },
+  {
+    "path": "part3/圖表與截圖/debounce_fsm.png",
+    "bytes": 82117,
+    "sha256": "b5629df53bfb889efc0d3dc868da35e78b1e1a0077a4c6e87ce9f4726f613f64"
+  },
+  {
+    "path": "part3/圖表與截圖/debounce_gui.png",
+    "bytes": 21726,
+    "sha256": "040685cc3cb6e8cff199525d0bc6ac6b7991cd1dc55049a652a903d0322a4cbe"
+  },
+  {
+    "path": "part3/圖表與截圖/debounce_wave_actual.png",
+    "bytes": 50588,
+    "sha256": "6374a0df70021c4ed5dc8023bed6525368308169e9c4d1b737f69d313be1452d"
+  },
+  {
+    "path": "part3/圖表與截圖/irq_wave_actual.png",
+    "bytes": 54631,
+    "sha256": "6b1a90b8b49be50701d7ceafdc4abd0a4620f118b660adb95aa3e4299f79b837"
+  },
+  {
+    "path": "part3/圖表與截圖/led_fsm.png",
+    "bytes": 42725,
+    "sha256": "1a4c2f281c2fa9d82787c78b6f0de4bb8cd038aea381b07fd651fb0aea14a0c6"
+  },
+  {
+    "path": "part3/圖表與截圖/system_flow.png",
+    "bytes": 106443,
+    "sha256": "d617efd6d2ec897e1b9eec2411e8462702a55dda5897363647863f65e5f0c7a2"
+  },
+  {
+    "path": "part3/圖表與截圖/來源索引.json",
+    "bytes": 1358,
+    "sha256": "d2f1b3f4d382f015be441cfc245be2d17934f4b631a53a21e57a0a06af413403"
+  },
+  {
+    "path": "README.md",
+    "bytes": 970,
+    "sha256": "59efdb06f32cec44226222ddb0876e9b7feaedb460d0c542c34a67851fb70261"
+  },
+  {
+    "path": "交付檢查.json",
+    "bytes": 313,
+    "sha256": "3955948e93654e21a16e302dd55034ebf7d1bbcbe2484b763e7e8b5cefe7cb7f"
+  }
+]

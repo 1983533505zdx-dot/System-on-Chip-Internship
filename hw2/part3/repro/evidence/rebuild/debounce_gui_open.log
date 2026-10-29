@@ -1,0 +1,33 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Oct 29 00:21:29 2026
+# Process ID: 14964
+# Current directory: D:/HW2_submission_work
+# Command line: vivado.exe -mode gui -source D:/HW2_submission_work/show_debounce_gui.tcl -log D:/HW2_submission_work/show_debounce_gui.log -journal D:/HW2_submission_work/show_debounce_gui.jou
+# Log file: D:/HW2_submission_work/show_debounce_gui.log
+# Journal file: D:/HW2_submission_work/show_debounce_gui.jou
+#-----------------------------------------------------------
+start_gui
+source D:/HW2_submission_work/show_debounce_gui.tcl
+# open_wave_database -noautoloadwcfg C:/Users/user/Desktop/hw2/part3/repro/waveforms/tb_button_conditioner_behav.wdb
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx_Vivado_SDK_2018.3_1207_2324.tar/Vivado/2018.3/data/ip'.
+# create_wave_config debounce_verified
+# add_wave /tb_button_conditioner/clk /tb_button_conditioner/resetn /tb_button_conditioner/raw /tb_button_conditioner/dut/sync1 /tb_button_conditioner/dut/sync2 /tb_button_conditioner/dut/count /tb_button_conditioner/pressed /tb_button_conditioner/pressed_low
+# save_wave_config D:/HW2_submission_work/assets/debounce_verified.wcfg
+# puts "WAVE_GUI_READY"
+WAVE_GUI_READY
+# foreach pat {*print* *image* *screen* *capture* *zoom* *wave*} {
+#  puts "COMMAND_PATTERN $pat [info commands $pat]"
+# }
+COMMAND_PATTERN *print* 
+COMMAND_PATTERN *image* write_device_image
+COMMAND_PATTERN *screen* 
+COMMAND_PATTERN *capture* 
+COMMAND_PATTERN *zoom* 
+COMMAND_PATTERN *wave* get_wave_configs suspend_wave_config_updates save_wave_config remove_wave get_waves add_wave_marker log_wave resume_wave_config_updates select_wave_objects open_wave_config add_wave_virtual_bus open_wave_database create_wave_config set_wave_prop move_wave add_wave_divider add_wave close_wave_config current_wave_config find_next_wave_value report_wave_props add_wave_group
+# puts "GUI_COMMANDS [info commands ::gui::*]"
+GUI_COMMANDS 

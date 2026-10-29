@@ -1,0 +1,4 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+PASS: bounce rejected, one press/release, hold stable, both polarities
+$finish called at time : 1420 ns : File "D:/Zynq_HW2/Source/tb_button_conditioner.v" Line 36

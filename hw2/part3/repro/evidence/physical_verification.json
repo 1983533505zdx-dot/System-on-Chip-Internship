@@ -1,0 +1,18 @@
+{
+  "date_local": "2026-10-27",
+  "timezone": "Asia/Taipei",
+  "board": "EGO-XZ7",
+  "manual": "E-Elements hardware manual V1.2, user-supplied Scribd link",
+  "button_label_confirmed_by_user": "BTNC / S6",
+  "led": "LED0 / T22 / active high",
+  "button": "BTNC / P16 / active high",
+  "initial_evidence": "board_program_run.log",
+  "initial": {"app_status": 1, "led_state": 1, "irq_count": 0, "press_count": 0, "last_button": 0, "led_data": 1, "button_data": 0},
+  "action": "User pressed and released the physical central BTNC/S6 once",
+  "user_observation_verbatim": "變暗了變暗了",
+  "after_evidence": "board_after_button.log",
+  "after": {"app_status": 1, "led_state": 0, "irq_count": 2, "press_count": 1, "last_button": 0, "led_data": 0, "button_data": 0},
+  "result": "PASS",
+  "interpretation": "Physical press and release delivered two GPIO interrupts; one press toggled LED from on to off. Main loop uses WFI, button is read only in ISR.",
+  "limits": "One physical press/release verified. Not a ten-press endurance test. No QSPI/SD persistent boot image programmed. PCB silkscreen revision was not supplied."
+}

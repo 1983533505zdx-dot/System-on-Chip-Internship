@@ -1,0 +1,1 @@
+Existing Xilinx notices in generated linker/BSP/hardware files remain applicable. Vivado/SDK and their IP libraries are not redistributed here. Reference screenshot excerpts are identified with document/page in the reports. No blanket open-source license is asserted for third-party material.

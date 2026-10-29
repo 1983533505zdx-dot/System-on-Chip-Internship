@@ -1,0 +1,18 @@
+{
+  "vivado_2018_3_bitstream_build": true,
+  "implemented_pin_mapping": true,
+  "drc_zero_violations": true,
+  "routed_timing_met": true,
+  "hdf_valid_and_contains_tested_bitstream": true,
+  "sdk_2018_3_board_build": true,
+  "hdf_matches_sdk": true,
+  "source_matches_sdk": true,
+  "elf_matches_export": true,
+  "elf_is_arm32": true,
+  "wfi_and_real_isr_linked": true,
+  "fpga_and_arm_program_run": true,
+  "initial_led_on_and_no_button_events": true,
+  "physical_press_release_changed_led": true,
+  "debounce_simulation": true,
+  "axi_gpio_irq_simulation": true
+}
